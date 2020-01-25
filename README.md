@@ -58,11 +58,13 @@ font-size: 1.5em;
 #content01_bg {background-image: url(https://torokoid.github.io/fts/20180614_01.JPG);}
 #content02_bg {background-image: url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG);}
 #content03_bg {background-image: url(https://torokoid.github.io/fts_furuhashi/20190417_002.jpg);}
+<!--
 #content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/454.JPG);}   
 #content07_bg {background-image: url(https://torokoid.github.io/mahoroba_2018/20180810_097.JPG);}
 #content08_bg {background-image: url(https://torokoid.github.io/mahoroba_2019/20190809_068.JPG);}
+-->
 
 /*
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
@@ -124,8 +126,8 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2012年まほろば&ensp;&ensp;&ensp;&ensp;<img src="QR_mahoroba_home.png" alt="アクセス用QRコード" width="80"></p>
-                <a href="https://torokoid.github.io/mahoroba_2012/">2012年まほろばHPリンク</a>
+                <p class="catch">FTS同窓会&ensp;&ensp;&ensp;&ensp;<img src="QR_mahoroba_home.png" alt="アクセス用QRコード" width="80"></p>
+                <a href="https://torokoid.github.io/fts/">FTS同窓会リンク</a>
             </div>
         </div>
     </div><!-- content01 -->
@@ -133,8 +135,8 @@ a{color: #fff;}
         <div id="content02_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2013年まほろば</p>
-                <a href="https://torokoid.github.io/mahoroba_2013/">2013年まほろばHPリンク</a>
+                <p class="catch">古橋さんご卒業記念</p>
+                <a href="https://torokoid.github.io/fts_furuhashi/">古橋さんご卒業記念リンク</a>
             </div>
         </div>
     </div><!-- content02 -->
@@ -142,11 +144,12 @@ a{color: #fff;}
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2014年まほろば</p>
-                <a href="https://torokoid.github.io/mahoroba_2014/">2014年まほろばHPリンク</a>
+                <p class="catch">伊藤さん谷口さん小林実さん合同ご卒業記念</p>
+                <a href="https://torokoid.github.io/fts_ito/">伊藤さん谷口さん小林実さん合同ご卒業記念リンク</a>
              </div>
         </div>
     </div><!-- content03 -->
+<!--
 <div id="content04" class="contents">
         <div id="content04_bg" class="background"></div>
         <div class="wrap">
@@ -156,6 +159,7 @@ a{color: #fff;}
              </div>
         </div>
     </div><!-- content04 -->
+<!--
 <div id="content05" class="contents">
         <div id="content05_bg" class="background"></div>
         <div class="wrap">
@@ -165,6 +169,7 @@ a{color: #fff;}
             </div>
         </div> 
     </div><!-- content05 -->
+<!--
 <div id="content06" class="contents">
         <div id="content06_bg" class="background"></div>
         <div class="wrap">
@@ -174,6 +179,7 @@ a{color: #fff;}
             </div>
         </div> 
     </div><!-- content06 -->
+<!--
 <div id="content07" class="contents">
         <div id="content07_bg" class="background"></div>
         <div class="wrap">
@@ -183,6 +189,7 @@ a{color: #fff;}
             </div>
         </div> 
     </div><!-- content07 -->
+<!--
 <div id="content08" class="contents">
         <div id="content08_bg" class="background"></div>
         <div class="wrap">
