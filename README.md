@@ -55,9 +55,9 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content01_bg {background-image: url(https://torokoid.github.io/mahoroba/0234.JPG);}
+#content01_bg {background-image: url(https://torokoid.github.io/fts/20180614_01.JPG);}
 #content02_bg {background-image: url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG);}
-#content03_bg {background-image: url(https://torokoid.github.io/mahoroba/180.JPG);}
+#content03_bg {background-image: url(https://torokoid.github.io/fts_furuhashi/20190417_002.jpg);}
 #content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/454.JPG);}   
