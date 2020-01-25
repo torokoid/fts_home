@@ -56,7 +56,7 @@ font-size: 1.5em;
  -->
 /* design*/
 #content01_bg {background-image: url(https://torokoid.github.io/mahoroba/0234.JPG);}
-#content02_bg {background-image: url(https://torokoid.github.io/mahoroba/0126.JPG);}
+#content02_bg {background-image: url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG);}
 #content03_bg {background-image: url(https://torokoid.github.io/mahoroba/180.JPG);}
 #content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
