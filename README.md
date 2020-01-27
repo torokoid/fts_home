@@ -144,8 +144,8 @@ a{color: #fff;}
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">伊藤さん矢口さん小林実さん合同ご卒業記念</p>
-                <a href="https://torokoid.github.io/fts_ito/">伊藤さん矢口さん小林実さん合同ご卒業記念リンク</a>
+                <p class="catch">伊藤さん、矢口さん、小林実さん合同ご卒業記念</p>
+                <a href="https://torokoid.github.io/fts_ito/">伊藤さん、矢口さん、小林実さん合同ご卒業記念リンク</a>
              </div>
         </div>
     </div><!-- content03 -->
